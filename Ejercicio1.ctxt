@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ejercicio1
+comment1.params=n\ maze
+comment1.target=boolean\ puedoSalir(int,\ java.lang.String[])
+comment2.params=laberinto\ x\ y
+comment2.target=boolean\ puedeSalir(char[][],\ int,\ int)
+numComments=3

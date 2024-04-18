@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ejercicio2
+comment1.params=a\ x
+comment1.target=boolean\ puedoGenerar(java.lang.String[],\ java.lang.String)
+comment2.params=a\ x\ index
+comment2.target=boolean\ puedoGenerarAux(java.lang.String[],\ java.lang.String,\ int)
+numComments=3
